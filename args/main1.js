@@ -1,0 +1,13 @@
+var argv = require('yargs')
+    .usage('Usage: $0 <command> [options]')
+    .command('data', 'Path to data file')
+    .command('config', 'Path to configuration file')
+    .example('$0 --data data.csv --config config.csv', 'reads the file data.csv with the configuration file config.csv')
+    .alias('d', 'data')
+    .nargs('data', 1)
+    .describe('data', 'Data file')
+    .demand(1, ['d'])
+    .help('h')
+    .alias('h', 'help')
+    .epilog('copyright 2016')
+    .argv;

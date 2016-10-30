@@ -2,6 +2,5 @@ const argv = require('yargs').argv
 const fs = require('fs')
 var config = require('config')
 
-var dbConfig = config.get('Customer.dbConfig')
-console.log(dbConfig)
-
+console.log(config.get('db.host'))
+console.log(config.get('db.port'))
