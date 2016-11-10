@@ -1,8 +1,8 @@
 'use strict'
 
-const fetch = require('node-fetch');
-const colors = require('colors');
-const parseString = require('xml2js').parseString;
+const fetch = require('node-fetch')
+const colors = require('colors')
+var parseString = require('xml2js').parseString;
 
 //http://sg.geodatenzentrum.de/gdz_cts?REQUEST=GetCoordinates&FROMSRS=GEO_DHDN&TOSRS=UTM32&COORDS=10 50 11 51
 
@@ -25,34 +25,20 @@ const opts = { method: 'GET' }
 
 fetch(url, opts)
 .then(function(res) {
-	//console.log(colors.green(res.ok))
     console.log(colors.green(res.status))
     console.log(colors.green(res.statusText))
-    //console.log(res.headers.raw())
-    //console.log(res.headers.get('content-type'))
-    //console.log(colors.green(' => request successful'))
     return res.text()
 })
-.then(function(result){
-    //console.log(result)
-    let json = ''
-    parseString(result, function (err, result) {
-        //console.log(colors.green(' => json generated'))
-        const jsonString = JSON.stringify(result)
-        console.log(jsonString)
-        json = JSON.parse(jsonString);
-        console.log(json)
-        return json
-    })
-})
-.then(function(json){
-    console.log(json)
-    const coordsString = json.CTS_Response.Coords[0].$.values
-    console.log(coordsString)
-    return coordsString
-})
-.then(function(coordsString){
-    console.log(coordsString)
+.then(function(xml){
+    // log xml
+    console.log(xml)
+    parseString(xml, function (err, result) {
+        // log json
+        console.log(result)
+        // log coordinates
+        const coords = result.CTS_Response.Coords[0].$.values
+        console.log(coords)
+    });
 })
 .catch(function(err) {
 	console.log(colors.red(err))
