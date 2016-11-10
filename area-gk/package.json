@@ -9,8 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "average": "0.0.1",
     "colors": "^1.1.2",
     "fetch": "^1.1.0",
+    "mathjs": "^3.7.0",
     "node-fetch": "^1.6.3",
     "xml2js": "^0.4.17",
     "xml2json": "^0.10.0"
