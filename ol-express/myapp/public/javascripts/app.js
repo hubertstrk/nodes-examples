@@ -6,7 +6,13 @@ window.onload = function(){
 
     const olwkt = new ol.format.WKT()
     const feature = olwkt.readFeature(wkt)
-    const geometry = feature.getGeometry()
 
-    
+    const current_projection = new ol.proj.Projection({code: "EPSG:4326"});
+    const new_projection = new ol.proj.Projection({code: "EPSG:900913"});
+    const geometry = feature.getGeometry()
+    //const transformedGeometry = geometry.clone().transform(current_projection, new_projection);    
+
+    //console.log(transformedGeometry.getCoordinates())
+    const area = sphere.geodesicArea(geometry.getGeometry())
+    console.log(area)
 }
