@@ -9,10 +9,12 @@ const options = {
   trim: true
 }
 
+let id = 0
 const convert = (line) => {
   const leguminous = line["Leguminose (ÖVF)"] === 'x' ? true : false
   const short = line["Kulturkürzel"] !== '' ? line["Kulturkürzel"] : line["Ebene6 Name"].substring(0, 4)
   return {
+    id: `crop_${id++}`,
     name: line["Ebene6 Name"],
     abbreviation: short,
     leguminous: leguminous,
