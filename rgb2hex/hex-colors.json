@@ -1,0 +1,517 @@
+[
+  {
+    "name": "nichts eingeteilt",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Winterweizen",
+    "rgb": "rgb(255,128,64)",
+    "hex": "#ff8040"
+  },
+  {
+    "name": "Sommerweizen",
+    "rgb": "rgb(255,80,0)",
+    "hex": "#ff5000"
+  },
+  {
+    "name": "Durumweizen",
+    "rgb": "rgb(234,77,0)",
+    "hex": "#ea4d00"
+  },
+  {
+    "name": "Winterroggen",
+    "rgb": "rgb(0,255,255)",
+    "hex": "#00ffff"
+  },
+  {
+    "name": "Triticale",
+    "rgb": "rgb(0,200,255)",
+    "hex": "#00c8ff"
+  },
+  {
+    "name": "Wintergerste",
+    "rgb": "rgb(0,206,0)",
+    "hex": "#00ce00"
+  },
+  {
+    "name": "Sommergerste",
+    "rgb": "rgb(0,255,0)",
+    "hex": "#00ff00"
+  },
+  {
+    "name": "Braugerste",
+    "rgb": "rgb(60,180,60)",
+    "hex": "#3cb43c"
+  },
+  {
+    "name": "Hafer",
+    "rgb": "rgb(50,150,50)",
+    "hex": "#329632"
+  },
+  {
+    "name": "Winterraps",
+    "rgb": "rgb(255,255,0)",
+    "hex": "#ffff00"
+  },
+  {
+    "name": "Körnermais",
+    "rgb": "rgb(0,0,255)",
+    "hex": "#0000ff"
+  },
+  {
+    "name": "Silomais",
+    "rgb": "rgb(0,50,255)",
+    "hex": "#0032ff"
+  },
+  {
+    "name": "Körnererbsen",
+    "rgb": "rgb(146,126,50)",
+    "hex": "#927e32"
+  },
+  {
+    "name": "Gemüseerbsen",
+    "rgb": "rgb(180,188,7)",
+    "hex": "#b4bc07"
+  },
+  {
+    "name": "Kartoffeln",
+    "rgb": "rgb(128,64,0)",
+    "hex": "#804000"
+  },
+  {
+    "name": "Sommertriticale",
+    "rgb": "rgb(0,0,0)",
+    "hex": "#000000"
+  },
+  {
+    "name": "Stärkekartoffeln",
+    "rgb": "rgb(0,0,0)",
+    "hex": "#000000"
+  },
+  {
+    "name": "Zuckerrüben",
+    "rgb": "rgb(255,0,255)",
+    "hex": "#ff00ff"
+  },
+  {
+    "name": "Öllein",
+    "rgb": "rgb(128,0,128)",
+    "hex": "#800080"
+  },
+  {
+    "name": "Lupinen",
+    "rgb": "rgb(255,128,255)",
+    "hex": "#ff80ff"
+  },
+  {
+    "name": "Ackerbohnen",
+    "rgb": "rgb(128,65,128)",
+    "hex": "#804180"
+  },
+  {
+    "name": "Sojabohne",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Dinkel",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "EnergieP Gemisch",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Sommerroggen",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Hybridroggen",
+    "rgb": "rgb(69,219,231)",
+    "hex": "#45dbe7"
+  },
+  {
+    "name": "Flachs (Lein)",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Wicken",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Sonnenblumen",
+    "rgb": "rgb(255,255,128)",
+    "hex": "#ffff80"
+  },
+  {
+    "name": "Sommerraps",
+    "rgb": "rgb(254,249,139)",
+    "hex": "#fef98b"
+  },
+  {
+    "name": "Rotschwingel",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Weidelgras",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Hanf",
+    "rgb": "rgb(128,0,255)",
+    "hex": "#8000ff"
+  },
+  {
+    "name": "EnergieP. TC",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Streuobst",
+    "rgb": "rgb(172,87,172)",
+    "hex": "#ac57ac"
+  },
+  {
+    "name": "EnergieP. Weizen",
+    "rgb": "rgb(210,50,60)",
+    "hex": "#d2323c"
+  },
+  {
+    "name": "EnergieP. Mais",
+    "rgb": "rgb(210,50,60)",
+    "hex": "#d2323c"
+  },
+  {
+    "name": "EnergieP. Roggen",
+    "rgb": "rgb(210,50,60)",
+    "hex": "#d2323c"
+  },
+  {
+    "name": "EnergieP.Sudangras",
+    "rgb": "rgb(210,50,60)",
+    "hex": "#d2323c"
+  },
+  {
+    "name": "EnergieP.Zuckerhirse",
+    "rgb": "rgb(210,50,60)",
+    "hex": "#d2323c"
+  },
+  {
+    "name": "EnergieP.Winterrübe",
+    "rgb": "rgb(210,505,60)",
+    "hex": "#d21f93c"
+  },
+  {
+    "name": "ZWFR Gründüngung",
+    "rgb": "rgb(210,255,60)",
+    "hex": "#d2ff3c"
+  },
+  {
+    "name": "Phacelia",
+    "rgb": "rgb(255,128,255)",
+    "hex": "#ff80ff"
+  },
+  {
+    "name": "ZWFR (Fl-Abzug)",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Brokkoli",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Eisbergsalat",
+    "rgb": "rgb(0,255,255)",
+    "hex": "#00ffff"
+  },
+  {
+    "name": "Grassamen",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Klee",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Luzerne",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Kleegras",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Gemüse (Nachbau)",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Blumen",
+    "rgb": "rgb(255,128,255)",
+    "hex": "#ff80ff"
+  },
+  {
+    "name": "Gemüse KR+BK+RD",
+    "rgb": "rgb(172,87,172)",
+    "hex": "#ac57ac"
+  },
+  {
+    "name": "Spargel",
+    "rgb": "rgb(121,166,131)",
+    "hex": "#79a683"
+  },
+  {
+    "name": "Radieschen",
+    "rgb": "rgb(255,0,0)",
+    "hex": "#ff0000"
+  },
+  {
+    "name": "Möhren",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Zwiebeln",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Silberzwiebeln",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Weiße Kugel /Rettich",
+    "rgb": "rgb(230,230,230)",
+    "hex": "#e6e6e6"
+  },
+  {
+    "name": "Steckrübe",
+    "rgb": "rgb(0,204,204)",
+    "hex": "#00cccc"
+  },
+  {
+    "name": "Erdbeeren",
+    "rgb": "rgb(255,0,0)",
+    "hex": "#ff0000"
+  },
+  {
+    "name": "Kohlrabi",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Tabak",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Weiẞkohl",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Rotkohl",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Wirsing",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Blumenkohl",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Pflaume",
+    "rgb": "rgb(128,0,64)",
+    "hex": "#800040"
+  },
+  {
+    "name": "Apfel",
+    "rgb": "rgb(208,235,20)",
+    "hex": "#d0eb14"
+  },
+  {
+    "name": "Salat",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Majoran",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Johannisbeere",
+    "rgb": "rgb(255,255,213)",
+    "hex": "#ffffd5"
+  },
+  {
+    "name": "Stillegung",
+    "rgb": "rgb(128,128,128)",
+    "hex": "#808080"
+  },
+  {
+    "name": "Diemenpl�tze",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "sonst. lw. Nutzung",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "AL aus Erzeug. gen.",
+    "rgb": "rgb(214,214,214)",
+    "hex": "#d6d6d6"
+  },
+  {
+    "name": "GL aus Erzeug. gen.",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Nachw. Rohstoffe",
+    "rgb": "rgb(217,209,66)",
+    "hex": "#d9d142"
+  },
+  {
+    "name": "Grünland",
+    "rgb": "rgb(0,255,128)",
+    "hex": "#00ff80"
+  },
+  {
+    "name": "Wiese",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Hutung",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Spitzkohl",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Petersilie",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Feldsalat",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Aprikose",
+    "rgb": "rgb(233,172,143)",
+    "hex": "#e9ac8f"
+  },
+  {
+    "name": "Ackergras",
+    "rgb": "rgb(220,250,180)",
+    "hex": "#dcfab4"
+  },
+  {
+    "name": "Porree",
+    "rgb": "rgb(230,250,230)",
+    "hex": "#e6fae6"
+  },
+  {
+    "name": "Birne",
+    "rgb": "rgb(128,255,128)",
+    "hex": "#80ff80"
+  },
+  {
+    "name": "Blühstreifen",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Sellerie",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Himbeere",
+    "rgb": "rgb(255,72,164)",
+    "hex": "#ff48a4"
+  },
+  {
+    "name": "Weidelgrasvermehrung",
+    "rgb": "rgb(0,128,0)",
+    "hex": "#008000"
+  },
+  {
+    "name": "EnergieP. Gerste",
+    "rgb": "rgb(0,128,0)",
+    "hex": "#008000"
+  },
+  {
+    "name": "Kürbis",
+    "rgb": "rgb(20,200,150)",
+    "hex": "#14c896"
+  },
+  {
+    "name": "Süsskirsche",
+    "rgb": "rgb(40,40,140)",
+    "hex": "#28288c"
+  },
+  {
+    "name": "Sauerkirsche",
+    "rgb": "rgb(100,20,200)",
+    "hex": "#6414c8"
+  },
+  {
+    "name": "Weihnachtsbaum",
+    "rgb": "rgb(80,180,60)",
+    "hex": "#50b43c"
+  },
+  {
+    "name": "EnergieP.Hafer",
+    "rgb": "rgb(40,40,21)",
+    "hex": "#282815"
+  },
+  {
+    "name": "Emmer",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Pastinaken",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Brache",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  },
+  {
+    "name": "Honigpflanzen ÖVF",
+    "rgb": "rgb(255,255,255)",
+    "hex": "#ffffff"
+  }
+]
