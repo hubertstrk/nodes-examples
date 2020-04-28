@@ -40,8 +40,8 @@ fs.createReadStream(path.resolve(__dirname, '', 'colors.csv'))
     .on('error', error => console.error(error))
     .on('data', row => json.push(convert(row)))
     .on("end", function () {
-      console.info(JSON.stringify(json))
-      jsonfile.writeFile('hex-colors.json', json, function (err) {
+      // console.info(JSON.stringify(json))
+      jsonfile.writeFile('result-colors.json', json, function (err) {
          console.error(err)
       })
     })
